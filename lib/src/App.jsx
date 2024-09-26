@@ -37,9 +37,6 @@ function App() {
             <a href={source.url}>{source.title}</a>
           ))}
           </div>
-          <div className="footer-text-img">
-          <img src={neolib} />
-          </div>
         </section>
       </footer>
     </div>
